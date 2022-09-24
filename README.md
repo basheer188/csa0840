@@ -22,3 +22,15 @@ day2.8
 day2.9
 day2.10
 
+day 3
+day3.1
+day3.2
+day3.3
+day3.4
+day3.5
+day3.6
+day3.7
+day3.8
+day3.9
+
+
